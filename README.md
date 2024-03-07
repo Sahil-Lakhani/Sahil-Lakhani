@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-Lakhani
 - 👀 I’m interested in ... Full stack development and SDE
-- 🌱 I’m currently learning ... react T-T
+- 🌱 I’m currently learning ... Flutter 🙌
 - 💞️ I’m looking to collaborate on ... multiple projects that will help me in improving my ability to code and to be a better programmer
 - 📫 How to reach me ... email : sahillakhani0106@gmail.com
                          linkedin : www.linkedin.com/in/lakhani-sahil
